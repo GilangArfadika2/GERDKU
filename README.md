@@ -56,7 +56,7 @@ Meskipun belum terhubung dengan backend atau fungsionalitas penuh, desain antarm
 
 ## 🛠️ Teknologi & Alat Desain
 
-- Desain UI dibuat menggunakan: `Figma / Adobe XD / Sketch` *(sesuaikan sesuai alat yang digunakan)*
+- Desain UI dibuat menggunakan: Figma
 - Pendekatan desain berdasarkan: prinsip user-centered design dan evidence-based layout dari literatur kesehatan.
 
 ---
@@ -66,8 +66,4 @@ Meskipun belum terhubung dengan backend atau fungsionalitas penuh, desain antarm
 Ini adalah **prototipe non-fungsional** (tanpa backend atau data aktual) yang dibuat untuk tujuan validasi desain dan alur pengguna sebelum pengembangan aplikasi sepenuhnya.
 
 ---
-
-## 💬 Feedback
-
-Kami sangat terbuka terhadap masukan! Jika Anda ingin memberikan saran atau kritik terhadap desain GERDKu, silakan hubungi tim pengembang/desain melalui kanal komunikasi yang disediakan.
 
